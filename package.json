@@ -1,0 +1,24 @@
+{
+  "name": "eth-bot",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "*",
+    "body-parser": "*",
+    "chalk": "*",
+    "console.table": "*",
+    "cookie-parser": "*",
+    "cron": "*",
+    "debug": "*",
+    "express": "*",
+    "jade": "*",
+    "morgan": "*",
+    "npm": "*",
+    "ramda": "*",
+    "readline": "*",
+    "serve-favicon": "*"
+  }
+}
